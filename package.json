@@ -150,7 +150,7 @@
     "minimatch": "^5.0.0",
     "mkdirp": "^1.0.4",
     "mockdate": "^3.0.5",
-    "nock": "^13.2.2",
+    "nock": "^14.0.10",
     "nodemon": "^2.0.15",
     "npm-merge-driver-install": "^3.0.0",
     "postcss": "^8.4.6",
